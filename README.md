@@ -1,4 +1,4 @@
-# Gitleaks Scanner Script
+# gitleaks-clone2tmp
 
 This script automates the process of scanning a Git repository for secrets using [Gitleaks](https://github.com/zricethezav/gitleaks). It allows for optional redaction of sensitive information in the output and generates reports in JSON, CSV, JUnit, and SARIF formats.
 
